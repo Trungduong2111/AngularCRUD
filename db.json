@@ -1,20 +1,35 @@
 {
   "posts": [
     {
-      "name": "duong",
-      "email": "duong@gmail.com",
-      "city": "HCM",
-      "pincode": 123,
-      "phonenumber": 9978,
-      "id": 1
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "Name": "Nguyen Trung Duong",
+      "Email": "duong@gmail.com",
+      "Mobile": 89834,
+      "Age": 24
     },
     {
-      "name": "a",
-      "email": "b",
-      "city": "c",
-      "pincode": 123,
-      "phonenumber": 3123,
+      "Name": "Test",
+      "Email": "Test@gmail.com",
+      "Mobile": "2888511",
+      "Age": 32,
       "id": 2
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
