@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "name": "duong",
+      "email": "duong@gmail.com",
+      "city": "HCM",
+      "pincode": 123,
+      "phonenumber": 9978,
+      "id": 1
+    },
+    {
+      "name": "a",
+      "email": "b",
+      "city": "c",
+      "pincode": 123,
+      "phonenumber": 3123,
+      "id": 2
+    }
+  ]
+}
